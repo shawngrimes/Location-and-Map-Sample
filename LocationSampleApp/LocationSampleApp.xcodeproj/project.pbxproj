@@ -83,10 +83,10 @@
 			children = (
 				294735BE1579421400B18D00 /* CFAAppDelegate.h */,
 				294735BF1579421400B18D00 /* CFAAppDelegate.m */,
-				294735B61579421400B18D00 /* Supporting Files */,
 				294735D1157BC1B500B18D00 /* CFAStartViewController.h */,
 				294735D2157BC1B500B18D00 /* CFAStartViewController.m */,
 				294735D3157BC1B500B18D00 /* CFAStartViewController.xib */,
+				294735B61579421400B18D00 /* Supporting Files */,
 			);
 			path = LocationSampleApp;
 			sourceTree = "<group>";
@@ -272,6 +272,7 @@
 				294735C51579421400B18D00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

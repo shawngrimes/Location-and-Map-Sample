@@ -10,4 +10,5 @@
 
 @interface CFAStartViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UILabel *labelLocationInformation;
 @end
